@@ -1,0 +1,7 @@
+2020-04-21 15:03:21.745 [main] INFO  ServerStarter - The program started.
+2020-04-21 15:03:21.751 [main] INFO  ServerStarter - The port reader started.
+2020-04-21 15:03:21.751 [main] INFO  ServerStarter - To start the server, enter the port or 'exit' to exit the program.
+2020-04-21 15:03:25.990 [main] ERROR ServerWorker - org.postgresql.util.PSQLException: Подсоединение по адресу localhost:5432 отклонено. Проверьте что хост и порт указаны правильно и что postmaster принимает TCP/IP-подсоединения.
+2020-04-21 15:03:25.990 [main] INFO  ServerStarter - To start the server, enter the port or 'exit' to exit the program.
+2020-04-21 15:04:04.024 [main] INFO  ServerWorker - Connect to basedate is successful
+2020-04-21 15:04:04.042 [main] INFO  ServerStarter - To start the server, enter the port or 'exit' to exit the program.

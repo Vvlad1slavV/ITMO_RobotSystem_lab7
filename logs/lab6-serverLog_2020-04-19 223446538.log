@@ -1,0 +1,5 @@
+2020-04-19 22:34:46.625 [main] INFO  ServerStarter - The program started.
+2020-04-19 22:34:46.630 [main] INFO  ServerStarter - The port reader started.
+2020-04-19 22:34:46.630 [main] INFO  ServerStarter - To start the server, enter the port or 'exit' to exit the program.
+2020-04-19 22:34:48.963 [main] INFO  ServerWorker - Connect to basedate is successful
+2020-04-19 22:34:48.963 [main] INFO  ServerStarter - To start the server, enter the port or 'exit' to exit the program.

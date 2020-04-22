@@ -1,0 +1,17 @@
+2020-04-21 15:04:35.514 [main] INFO  ServerStarter - The program started.
+2020-04-21 15:04:35.518 [main] INFO  ServerStarter - The port reader started.
+2020-04-21 15:04:35.518 [main] INFO  ServerStarter - To start the server, enter the port or 'exit' to exit the program.
+2020-04-21 15:04:36.773 [main] INFO  ServerWorker - Connect to basedate is successful
+2020-04-21 15:04:36.773 [main] INFO  ServerStarter - To start the server, enter the port or 'exit' to exit the program.
+2020-04-21 15:05:38.825 [main] INFO  ServerWorker - Connect to basedate is successful
+2020-04-21 15:05:38.825 [main] INFO  ServerStarter - To start the server, enter the port or 'exit' to exit the program.
+2020-04-21 15:05:40.528 [main] INFO  ServerWorker - Connect to basedate is successful
+2020-04-21 15:05:40.528 [main] INFO  ServerStarter - To start the server, enter the port or 'exit' to exit the program.
+2020-04-21 15:05:41.015 [main] INFO  ServerWorker - Connect to basedate is successful
+2020-04-21 15:05:41.015 [main] INFO  ServerStarter - To start the server, enter the port or 'exit' to exit the program.
+2020-04-21 15:05:41.311 [main] INFO  ServerWorker - Connect to basedate is successful
+2020-04-21 15:05:41.311 [main] INFO  ServerStarter - To start the server, enter the port or 'exit' to exit the program.
+2020-04-21 15:05:41.681 [main] INFO  ServerWorker - Connect to basedate is successful
+2020-04-21 15:05:41.681 [main] INFO  ServerStarter - To start the server, enter the port or 'exit' to exit the program.
+2020-04-21 15:05:41.926 [main] INFO  ServerWorker - Connect to basedate is successful
+2020-04-21 15:05:41.926 [main] INFO  ServerStarter - To start the server, enter the port or 'exit' to exit the program.

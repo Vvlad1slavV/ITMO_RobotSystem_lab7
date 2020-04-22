@@ -1,0 +1,13 @@
+com\itmo\r3135\System\Tools\StringCommandManager.class
+com\itmo\r3135\System\Tools\DatagramTrimer.class
+com\itmo\r3135\System\Command.class
+com\itmo\r3135\System\CommandList.class
+com\itmo\r3135\System\ServerMessage.class
+com\itmo\r3135\System\Tools\ScriptReader.class
+com\itmo\r3135\World\Color.class
+com\itmo\r3135\World\Coordinates.class
+com\itmo\r3135\World\Generator.class
+com\itmo\r3135\World\UnitOfMeasure.class
+com\itmo\r3135\System\Tools\VirtualStack.class
+com\itmo\r3135\World\Person.class
+com\itmo\r3135\World\Product.class

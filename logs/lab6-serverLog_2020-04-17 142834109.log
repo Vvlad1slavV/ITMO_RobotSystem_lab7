@@ -1,0 +1,11 @@
+2020-04-17 14:28:34.190 [main] INFO  ServerStarter - The program started.
+2020-04-17 14:28:34.195 [main] INFO  ServerStarter - The port reader started.
+2020-04-17 14:28:34.195 [main] INFO  ServerStarter - To start the server, enter the port or 'exit' to exit the program.
+2020-04-17 14:28:38.121 [main] INFO  ServerWorker - Server port: 6665
+2020-04-17 14:28:38.122 [main] INFO  ServerWorker - Path file.json discovered.
+2020-04-17 14:28:38.122 [main] INFO  ServerWorker - File file.json discovered.
+2020-04-17 14:28:38.122 [main] INFO  ServerWorker - File is D:\java\ITMO_RobotSystem_lab6\file.json
+2020-04-17 14:28:38.122 [main] INFO  ServerWorker - Server initialization.
+2020-04-17 14:28:38.137 [main] INFO  ServerWorker - Load collection.
+2020-04-17 14:28:38.229 [main] INFO  Loader - Loading collection from D:\java\ITMO_RobotSystem_lab6\file.json
+2020-04-17 14:28:38.250 [main] FATAL Loader - Json syntax error. File could not be loaded.

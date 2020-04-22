@@ -1,0 +1,4 @@
+2020-04-18 19:02:29.369 [main] INFO  ServerStarter - The program started.
+2020-04-18 19:02:29.373 [main] INFO  ServerStarter - The port reader started.
+2020-04-18 19:02:29.373 [main] INFO  ServerStarter - To start the server, enter the port or 'exit' to exit the program.
+2020-04-18 19:02:33.066 [main] INFO  ServerStarter - To start the server, enter the port or 'exit' to exit the program.

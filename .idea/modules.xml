@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Client/Client.iml" filepath="$PROJECT_DIR$/Client/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ITMO_RobotSystem_lab6.iml" filepath="$PROJECT_DIR$/.idea/ITMO_RobotSystem_lab6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQL/SQL.iml" filepath="$PROJECT_DIR$/SQL/SQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Server/Server.iml" filepath="$PROJECT_DIR$/Server/Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spamer/Spamer.iml" filepath="$PROJECT_DIR$/Spamer/Spamer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorldClasses/WorldClasses.iml" filepath="$PROJECT_DIR$/WorldClasses/WorldClasses.iml" />
+    </modules>
+  </component>
+</project>
